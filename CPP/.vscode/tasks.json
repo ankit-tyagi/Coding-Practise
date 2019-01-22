@@ -6,7 +6,10 @@
         {
             "label": "Build File",
             "type": "shell",
-            "command": "g++ '${file}'",
+            "command": "g++ -std=gnu++0x '${file}'",
+           // "args": [
+            //    "-std=gnu++0x"
+           // ],
             "group": {
                 "kind": "build",
                 "isDefault": true

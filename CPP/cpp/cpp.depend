@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548153109 source:c:\users\ankit\desktop\practise\practise\cpp\find subarray with given sum handles negative numbers.cpp
+	<bits/stdc++.h>
+	<unordered_map>
+
