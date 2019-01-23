@@ -1,0 +1,75 @@
+Coding Questions to do:-
+
+Check for balanced parentheses
+largest rectangle in histogram
+check if a binary tree is BST or not
+Min Cost path to the point in 2D array
+Check if two linked lists merge
+Count ways to reach nth stair 
+Find size of the largest ‘+’ formed by all ones in a binary matrix
+Count the number of occurrences in a sorted array
+In given range, print all numbers having unique digits.
+Given a node, you can even find the next highest node in O(log(n)) time
+floyd warshall
+bellman ford
+01 knapsack problem
+Find the smallest window in a string containing all characters of another string
+LRU Cache
+Add all greater values to every node in a given BST
+Adding two polynomials using Linked List
+Backtracking | Set 6 (Hamiltonian Cycle)
+Backtracking | Set 7 (Sudoku)
+Backtracking | Set 2 (Rat in a Maze)
+Binary Heap
+Binary Search Tree | Set 2 (Delete)
+K’th largest element in a stream
+m Coloring Problem | Backtracking-5
+Build Lowest Number by Removing n digits from a given number
+Find Last Digit of a^b for Large Numbers
+AVL Tree Insertion
+Graph DFS/BFS
+check if given four points form a square
+Check if a string can be obtained by rotating another string 2 places
+Find the nearest smaller numbers on left side in an array
+Find if two rectangles overlap
+Pair with given product | Set 1 (Find if any pair exists)
+Position of rightmost set bit
+Print all possible strings that can be made by placing spaces
+Replace all ‘0’ with ‘5’ in an input Integer
+A Boolean Matrix Question
+Array Rotation (0, 90, 180, 270)
+Build Lowest Number by Removing n digits from a given number
+Kadane Algorithm | Largest Sum Contiguous Subarray
+Add all greater values to every node in a given BST
+Adding two polynomials using Linked List
+Backtracking | Set 6 (Hamiltonian Cycle)
+Binary Heap
+Binary Search Tree | Set 2 (Delete)
+Clone a linked list with next and random pointer | Set 2
+Program to convert a given number to words
+Find the number of islands | Set 1 (Using DFS)
+Flattening a Linked List
+Greedy Algorithms | Set 5 (Prim’s Minimum Spanning Tree (MST))
+Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1
+Largest Rectangle of 1's in a binary matrix
+print largest rectangle of 1's in binary matrix with swaping of columns allowed
+LCM
+GCD
+sort a nearly sorted array
+Largest Contiguous Substring
+Maximum difference between node and its ancestor in Binary Tree
+Merge k sorted linkedList
+Nuts & Bolts Problem (Lock & Key problem)
+Segment Tree | Set 1 (Sum of given range)
+Sort an array in wave form
+AVL Tree | Set 2 (Deletion)
+Backtracking | Set 3 (N Queen Problem)
+Construct a Binary Tree from Postorder and Inorder
+Two nodes of a BST are swapped, correct the BST
+Arrange given numbers to form the biggest number
+Median in a stream of integers (running integers)
+Convert array into Zig-Zag fashion
+traverse tree in level order traversal
+Implement n-array tree.
+lowest common ancestor of 2 nodes in a tree
+diameter of a tree
