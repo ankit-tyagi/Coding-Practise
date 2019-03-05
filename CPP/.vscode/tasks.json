@@ -7,13 +7,7 @@
             "label": "Build File",
             "type": "shell",
             "command": "g++ -std=gnu++0x '${file}'",
-           // "args": [
-            //    "-std=gnu++0x"
-           // ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
+            "group": "build",
             "problemMatcher": [
                 "$gcc"
             ]
@@ -23,7 +17,13 @@
             "type": "shell",
             "command": "./a.exe",
             "problemMatcher": [],
-            "dependsOn":["Build File"]
+            "dependsOn": [
+                "Build File"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
