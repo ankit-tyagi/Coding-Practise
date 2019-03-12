@@ -1,5 +1,7 @@
 //time = n, Space = 1
 //Traverse twice to find the length then the element in next turn
+//recursion code below 
+
 
 #include<bits/stdc++.h>
 
@@ -16,7 +18,7 @@ void push(struct node **headref, int data){
     newnode->next = *headref;
     *headref = newnode;
 }
-
+/*
 void printkthfromlast(struct node *head, int n)
 {
     int len = 0;
@@ -39,6 +41,19 @@ void printkthfromlast(struct node *head, int n)
     }
 
     cout<<temp->data;
+}*/
+
+void printkthfromlast(struct node *head, int n)
+{
+    static int i=0;
+    if(head==NULL)
+    {
+        return;
+    }
+    printkthfromlast(head->next,n);
+    i++;
+    if(i==n)
+        cout<<head->data;
 }
 
 int main()
