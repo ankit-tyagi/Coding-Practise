@@ -1,5 +1,7 @@
 Coding Questions to do:-
 
+1.1 Remove duplicates from an unsorted linked list
+1.2 Remove duplicates from an unsorted linked list
 Check for balanced parentheses
 largest rectangle in histogram
 check if a binary tree is BST or not
