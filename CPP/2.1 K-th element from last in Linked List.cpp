@@ -1,3 +1,6 @@
+//time = n, Space = 1
+//Traverse twice to find the length then the element in next turn
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -24,12 +27,13 @@ void printkthfromlast(struct node *head, int n)
         temp = temp->next;
         len++;
     }
+    cout<<len<<endl;
     if(len < n )
         return;
     
     temp = head;
 
-    for(int i=0;i<len-n+1;i++)
+    for(int i=0;i<len-n;i++)
     {
         temp = temp->next;
     }
