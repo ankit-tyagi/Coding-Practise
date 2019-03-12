@@ -1,7 +1,15 @@
 Coding Questions to do:-
 
-1.1 Remove duplicates from an unsorted linked list
-1.2 Remove duplicates from an unsorted linked list
+1.1     Remove duplicates from an unsorted linked list
+1.2     Remove duplicates from an unsorted linked list
+2.1     K-th element from last in Linked List
+2.2     K-th element from last in Linked List
+7.1     Cycle in Linked List
+7.2     Cycle in Linked List
+8.1     Starting point of cycle in Linked List
+8.2     Starting point of cycle in Linked List
+22.1    detect and remove cycle in Linked List
+22.2    detect and remove cycle in Linked List
 Check for balanced parentheses
 largest rectangle in histogram
 check if a binary tree is BST or not
