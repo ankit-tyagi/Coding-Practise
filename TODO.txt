@@ -8,8 +8,12 @@ Coding Questions to do:-
 7.2     Cycle in Linked List
 8.1     Starting point of cycle in Linked List
 8.2     Starting point of cycle in Linked List
+9.1     Insert node in Linked List in sorted way
+11.1    Merge two sorted Linked List
+11.2    Merge two sorted Linked List
 22.1    detect and remove cycle in Linked List
 22.2    detect and remove cycle in Linked List
+Maximum Bitwise AND pair from given range
 Check for balanced parentheses
 largest rectangle in histogram
 check if a binary tree is BST or not
