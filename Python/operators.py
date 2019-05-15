@@ -119,7 +119,52 @@ a=9
 a|=b   #      a=a|b
 print(a)
 a=9
-a^=b  #       a=a^b
+a^=b  #       a=a^b     Exclusive XOR
 print(a)
-#>>=	Performs Bitwise right shift on operands and assign value to left operand	a>>=b     a=a>>b
-#<<=	Performs Bitwise left shift on operands and assign value to left operand	a <<= b                    a= a << b
+a=9
+a>>=b  #    a=a>>b bitwise right operator
+print(a)
+a=9
+a <<= b     #        a= a << b   bitwise left operator
+print(a)
+
+
+#Special operators
+# is          True if the operands are identical 
+# is not      True if the operands are not identical 
+# Examples of Identity operators
+
+print("Identity Operators")
+a1 = 3
+b1 = 3
+a2 = 'GeeksforGeeks'
+b2 = 'GeeksforGeeks'
+a3 = [1,2,3]
+b3 = [1,2,3]
+
+
+print(a1 is not b1)
+
+
+print(a2 is b2)
+
+# Output is False, since lists are mutable.
+print(a3 is b3)
+
+# in            True if value is found in the sequence
+# not in        True if value is not found in the sequence
+
+x = 'Geeks for Geeks'
+y = {3:'a',4:'b'}
+
+
+print('G' in x)
+
+print('geeks' not in x)
+
+print('Geeks' not in x)
+
+print(3 in y)
+
+print('b' in y)
+

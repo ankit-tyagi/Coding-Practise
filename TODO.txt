@@ -87,3 +87,7 @@ traverse tree in level order traversal
 Implement n-array tree.
 lowest common ancestor of 2 nodes in a tree
 diameter of a tree
+The Knight’s tour problem | Backtracking-1
+
+
+Data Structure and Algorithm,C,C++,Java,Python,ASP.Net,Android Development,Unity3D

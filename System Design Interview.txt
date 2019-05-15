@@ -21,8 +21,8 @@ Things to consider for System Design Interview
 Concepts to know
 	1.	Vertical VS Horizontal scaling
 	2.	CAP theorem
-	3.	ACID VS BASE 
-	4.	Partitioning/Sharding 
+	3.	ACID VS BASE
+ 	4.	Partitioning/Sharding 
 		4.1	Consistent hashing
 	5.	Optimistic vs pessimistic locking
 	6.	Strong vs eventual consistency
@@ -61,8 +61,8 @@ Commonly used Tools
 	1.	Cassandra
 	2.	MongoDB/Couchbase
 	3.	Mysql
-	4.	Memcached
-	5.	Redis
+	4.	Memcache
+d	5.	Redis
 	6.	Zookeeper
 	7.	Kafka
 	8.	NGINX
