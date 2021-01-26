@@ -24,7 +24,7 @@ week 03 ->
     week 03 date 01/21
 week 04 ->
     week 04 date 01/22
-    week 04 date 01/23
+    week 04 date 01/23 - Sort the Matrix Diagonally
     week 04 date 01/24
     week 04 date 01/25
     week 04 date 01/26
