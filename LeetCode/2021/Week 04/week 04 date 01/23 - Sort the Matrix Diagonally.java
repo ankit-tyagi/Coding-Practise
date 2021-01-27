@@ -33,4 +33,27 @@ class Solution {
         return arr;
 //        return arr.stream().sorted().collect(Collectors.toList());
     }
+
+
+    
+    //Second Solution
+    public static int[][] diagonalSortSecondSolution(int[][] mat) {
+
+        HashMap<Integer, PriorityQueue<Integer>> hm = new HashMap<>();
+
+        for(int i=0;i<mat.length;i++){
+            for (int j=0;j<mat[i].length;j++){
+                hm.putIfAbsent((i-j), new PriorityQueue<>());
+                hm.get(i-j).add(mat[i][j]);
+            }
+        }
+
+        for(int i=0;i<mat.length;i++){
+            for (int j=0;j<mat[i].length;j++){
+                mat[i][j] = hm.get(i-j).poll();
+            }
+        }
+
+        return mat;
+    }
 }
