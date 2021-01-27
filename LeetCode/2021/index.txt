@@ -25,10 +25,10 @@ week 03 ->
 week 04 ->
     week 04 date 01.22 - Determine if Two Strings Are Close
     week 04 date 01.23 - Sort the Matrix Diagonally
-    week 04 date 01.24
+    week 04 date 01.24 - 
     week 04 date 01.25
     week 04 date 01.26
-    week 04 date 01.27
+    week 04 date 01.27 - Concatenation of Consecutive Binary Numbers
     week 04 date 01.28
  week 05 ->
     week 05 date 01.29
