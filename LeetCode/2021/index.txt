@@ -1,40 +1,40 @@
 Week 01 ->
-    week 01 date 01/01 - Check Array Formation Through Concatenation
-    week 01 date 01/02
-    week 01 date 01/03
-    week 01 date 01/04
-    week 01 date 01/05
-    week 01 date 01/06
-    week 01 date 01/07
+    week 01 date 01.01 - Check Array Formation Through Concatenation
+    week 01 date 01.02
+    week 01 date 01.03
+    week 01 date 01.04
+    week 01 date 01.05
+    week 01 date 01.06
+    week 01 date 01.07
 week 02 ->
-    week 02 date 01/08
-    week 02 date 01/09
-    week 02 date 01/10
-    week 02 date 01/11
-    week 02 date 01/12
-    week 02 date 01/13
-    week 02 date 01/14
+    week 02 date 01.08
+    week 02 date 01.09
+    week 02 date 01.10
+    week 02 date 01.11
+    week 02 date 01.12
+    week 02 date 01.13
+    week 02 date 01.14
 week 03 ->
-    week 03 date 01/15
-    week 03 date 01/16
-    week 03 date 01/17
-    week 03 date 01/18
-    week 03 date 01/19
-    week 03 date 01/20
-    week 03 date 01/21
+    week 03 date 01.15
+    week 03 date 01.16
+    week 03 date 01.17
+    week 03 date 01.18
+    week 03 date 01.19
+    week 03 date 01.20
+    week 03 date 01.21
 week 04 ->
-    week 04 date 01/22 - Determine if Two Strings Are Close
-    week 04 date 01/23 - Sort the Matrix Diagonally
-    week 04 date 01/24
-    week 04 date 01/25
-    week 04 date 01/26
-    week 04 date 01/27
-    week 04 date 01/28
+    week 04 date 01.22 - Determine if Two Strings Are Close
+    week 04 date 01.23 - Sort the Matrix Diagonally
+    week 04 date 01.24
+    week 04 date 01.25
+    week 04 date 01.26
+    week 04 date 01.27
+    week 04 date 01.28
  week 05 ->
-    week 05 date 01/29
-    week 05 date 01/30
-    week 05 date 01/31
-    week 05 date 02/01
-    week 05 date 02/02
-    week 05 date 02/03
-    week 05 date 02/04
+    week 05 date 01.29
+    week 05 date 01.30
+    week 05 date 01.31
+    week 05 date 02.01
+    week 05 date 02.02
+    week 05 date 02.03
+    week 05 date 02.04
