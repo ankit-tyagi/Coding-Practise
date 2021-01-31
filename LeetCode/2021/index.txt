@@ -29,7 +29,7 @@ week 04 ->
     week 04 date 01.25
     week 04 date 01.26
     week 04 date 01.27 - Concatenation of Consecutive Binary Numbers
-    week 04 date 01.28
+    week 04 date 01.28 - Smallest String With A Given Numeric Value
  week 05 ->
     week 05 date 01.29
     week 05 date 01.30
