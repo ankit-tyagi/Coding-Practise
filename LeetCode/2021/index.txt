@@ -26,8 +26,8 @@ week 04 ->
     week 04 date 01.22 - Determine if Two Strings Are Close
     week 04 date 01.23 - Sort the Matrix Diagonally
     week 04 date 01.24 - Merge k Sorted Lists
-    week 04 date 01.25
-    week 04 date 01.26
+    week 04 date 01.25 - Check If All 1's Are at Least Length K Places Away
+    week 04 date 01.26 - Path With Minimum Effort                   ------ NOT SOLVED
     week 04 date 01.27 - Concatenation of Consecutive Binary Numbers
     week 04 date 01.28 - Smallest String With A Given Numeric Value
  week 05 ->
